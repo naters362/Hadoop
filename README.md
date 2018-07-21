@@ -18,7 +18,7 @@
 18.	move to settings in GitHub and open the SSH and GPG keys copy and paste in this section to create the key
 19.	this should connect you to your GitHub and local computer using these keys that were just created
 20.	go back to bash to make sure that the key is properly installed into GitHub type this into the bash command
-21.	# ssh git@github.com
+21.	ssh git@github.com
 22.	This should allow you to access your GitHub through  bash 
 23.	Next, we are going to puta copy of the public key on the desktop of the computer for easy access when setting up our AWS terminal
 24.	To do this type this command into bash
