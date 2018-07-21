@@ -1,5 +1,5 @@
-# Creating SSH keys 
-1.Open Bash on your local system
+ #Creating SSH keys 
+1. Open Bash on your local system
 2.	Open git GitHub (create account if necessary) 
 3.	Create a new Jupyter notebook repository on GitHub
 4.	Move to bash 
@@ -64,7 +64,7 @@
 63.	this should display the token copy and paste it into the token area in the browser and hit enter
 64.	after this you should have your fully running jupyter notebook on you aws instance
 
-# SSH Picture
+#SSH Picture
 ![alt text] file:///C:/Users/Nate/Desktop/Introduction%20to%20data%20science%207-2018/SSh%20key%20picture.htm)
 
-# Server Costs
+#Server Costs
