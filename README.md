@@ -51,6 +51,7 @@
 50.	this will take you into the ubuntu server that we just created on AWS and should be displayed as ubuntu@############
 51.	next we will load the jupyter shell into the bash session, so we can interact with jupyter in a web browser on the amazon server
 52.	tmux 
+52. docker pull ubuntu 
 53.	docker pull jupyter/datascience-notebook
 54.	This will bring us into a tmux server, so we can interact in a docker environment
 55.	docker run -d -p 443:8888 -v /home/ubuntu:/home/jovyan jupyter/datascience-notebook >.profile
