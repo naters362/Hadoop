@@ -71,7 +71,7 @@
 #Server Costs
 
 Price Per Hour
-General Purpose - Current Generation
-m5	$5.914
-m4	$2.831
-m3	$2.71
+General Purpose - Current Generation 
+m5=$5.914
+m4=$2.831
+m3=$2.71
