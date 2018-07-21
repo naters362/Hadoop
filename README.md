@@ -66,6 +66,6 @@
 
 #SSH Picture
 
-![alt text] file:///C:/Users/Nate/Desktop/Introduction%20to%20data%20science%207-2018/SSh%20key%20picture.htm)
+![alt text] (file:///C:/Users/Nate/Desktop/Introduction%20to%20data%20science%207-2018/SSh%20key%20picture.html)
 
 #Server Costs
